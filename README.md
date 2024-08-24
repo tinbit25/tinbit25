@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Full Stack development**
 
-- 🌱 I’m currently learning **Mobile app engineering, developing and refining skills in building innovative and user-friendly mobile applications.**
+- 🌱 I’m currently learning **Mobile app engineering.**
 
 - 👯 I’m looking to collaborate on **website development**
 
