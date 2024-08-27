@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **Full Stack development**<br>
 - 🌱 I’m currently learning **Mobile app engineering**<br>
 - 👯 I’m looking to collaborate on **website development**<br>
-- 📫 How to reach me: [tinbitelias25@gmail.com](mailto:tinbitelias25@gmail.com)
+- 📫 How to reach me **tinbitelias25@gmail.com**
 
 <br>
 <p align="left">
