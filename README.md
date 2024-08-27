@@ -2,12 +2,20 @@
 
 <h1 align="center">Hi 👋, I'm Tinbite Elias</h1>
 <h3 align="center">
-  Welcome to my GitHub profile! <br>
+   <br>
   I'm a Full Stack Developer passionate about creating innovative solutions.
 </h3>
 
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif">
 
+<br>
+<br>
+- 🔭 I’m currently working on **Full Stack development**
+- 🌱 I’m currently learning **Mobile app engineering**
+- 👯 I’m looking to collaborate on **website development**
+- 📫 How to reach me: [tinbitelias25@gmail.com](mailto:tinbitelias25@gmail.com)
+
+<br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tinbit25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -17,12 +25,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=tinbit25" alt="Profile Trophies" />
   </a>
 </p>
-
-- 🔭 I’m currently working on **Full Stack development**
-- 🌱 I’m currently learning **Mobile app engineering**
-- 👯 I’m looking to collaborate on **website development**
-- 📫 How to reach me: [tinbitelias25@gmail.com](mailto:tinbitelias25@gmail.com)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/tinbite-elias-40409a317" target="_blank">
