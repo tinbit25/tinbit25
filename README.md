@@ -10,10 +10,10 @@
 
 <br>
 <br>
-- 🔭 I’m currently working on **Full Stack development**<br>
-- 🌱 I’m currently learning **Mobile app engineering**<br>
-- 👯 I’m looking to collaborate on **website development**<br>
-- 📫 How to reach me **tinbitelias25@gmail.com**
+- 🔭 I’m currently working on Full Stack development<br>
+- 🌱 I’m currently learning Mobile app engineering<br>
+- 👯 I’m looking to collaborate on website development<br>
+- 📫 How to reach me tinbitelias25@gmail.com
 
 <br>
 <p align="left">
