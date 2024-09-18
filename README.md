@@ -6,12 +6,17 @@
 
 
 <h1 align="center">Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tinbite</h1>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000px" alt="Welcome Banner">
-</p>
+
+ 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Tinbite+Elias!;+Welcome+to+My+GitHub+Profile!;+Full-Stack+Developer+and+Software+Engineer;+Creating+Impactful+Digital+Solutions;+Passionate+About+Web+and+Mobile+Development;+Always+Learning,+Always+Improving!;+Let’s+Collaborate+and+Build+Something+Great!;" alt="Typing SVG">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=300&color=36BCF7&center=true&vCenter=true&width=700&height=50&lines=Hello,+World!+🌍;+I'm+Tinbite+Elias!+👋;+Full-Stack+Developer+%7C+Software+Engineer;+Crafting+Impactful+Digital+Solutions;+Passionate+About+Web+%26+Mobile+Development;+Always+Learning+%7C+Always+Improving;+Let's+Build+Something+Amazing+Together!+🚀" alt="Typing SVG">
 </p>
+
+
+
 
 
 
@@ -29,13 +34,15 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tinbit25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
+<br><br>
+<h3 align="left">🏆 Trophies:</h3>
 <p align="left">
+  <br><br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=tinbit25" alt="Profile Trophies" />
   </a>
 </p>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Let's Connect:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/tinbite-elias-40409a317" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -45,14 +52,9 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left">
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
-  </a>
-  <a href="https://canvasjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="CanvasJS" width="40" height="40" />
-  </a>
+ 
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   </a>
@@ -65,9 +67,7 @@
   <a href="https://expressjs.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" />
-  </a>
+ 
   <a href="https://flutter.dev" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
   </a>
@@ -83,9 +83,7 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" />
-  </a>
+
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   </a>
