@@ -1,10 +1,20 @@
 ![MasterHead](https://github.com/tinbit25/tinbit25/blob/main/banner%20(3).png?raw=true)
 
-<h1 align="center">Hi 👋, I'm Tinbite Elias</h1>
-<h3 align="center">
-   <br>
-  I'm a Full Stack Developer passionate about creating innovative solutions.
-</h3>
+![](assets/header_.png)
+
+
+
+
+<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tinbite</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000px" alt="Welcome Banner">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Tinbite+Elias!;+Welcome+to+My+GitHub+Profile!;+Full-Stack+Developer+and+Software+Engineer;+Creating+Impactful+Digital+Solutions;+Passionate+About+Web+and+Mobile+Development;+Always+Learning,+Always+Improving!;+Let’s+Collaborate+and+Build+Something+Great!;" alt="Typing SVG">
+</p>
+
+
+
 
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif">
 
