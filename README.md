@@ -1,42 +1,29 @@
+
 ![MasterHead](https://github.com/tinbit25/tinbit25/blob/main/banner%20(3).png?raw=true)
-
-![](assets/header_.png)
-
-
-
 
 <h1 align="center">Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tinbite</h1>
 
 <p align="center">
-
- 
-<p align="center">
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=300&color=36BCF7&center=true&vCenter=true&width=700&height=50&lines=Hello,+World!+🌍;+I'm+Tinbite+Elias!+👋;+Full-Stack+Developer+%7C+Software+Engineer;+Crafting+Impactful+Digital+Solutions;+Passionate+About+Web+%26+Mobile+Development;+Always+Learning+%7C+Always+Improving;+Let's+Build+Something+Amazing+Together!+🚀" alt="Typing SVG">
 </p>
 
-
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif">
 
-<br>
-<br>
 - 🔭 I’m currently working on Full Stack development<br>
 - 🌱 I’m currently learning Mobile app engineering<br>
 - 👯 I’m looking to collaborate on website development<br>
-- 📫 How to reach me tinbitelias25@gmail.com
+- 📫 How to reach me: tinbitelias25@gmail.com
 
-<br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tinbit25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-<br><br>
-<h3 align="left">🏆 Trophies:</h3>
-<p align="left">
-  <br><br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tinbit25" alt="Profile Trophies" />
-  </a>
-</p>
+<br><br><br><br><br><br>
+
+
+| 🏆 Trophies | LeetCode Activity |
+| ----------- | ----------------- |
+| <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinbit25" alt="Profile Trophies" /></a> | [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/tinbit25/) ![LeetCode Stats](https://leetcard.jacoblin.cool/tinbit25?ext=heatmap&theme=dark&width=500&height=300) |
+
 <h3 align="left">🤝 Let's Connect:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/tinbite-elias-40409a317" target="_blank">
@@ -49,7 +36,6 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left">
- 
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   </a>
@@ -62,7 +48,6 @@
   <a href="https://expressjs.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
   </a>
- 
   <a href="https://flutter.dev" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
   </a>
@@ -78,7 +63,6 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
   </a>
-
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   </a>
@@ -110,3 +94,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tinbit25" alt="GitHub Streak" />
 </p>
+```
